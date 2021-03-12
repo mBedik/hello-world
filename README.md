@@ -1,2 +1,3 @@
 # hello-world
-Hello again! gotta start somewhere.
+Hello again! Gotta start somewhere.
+I just capitolized the "G"!
